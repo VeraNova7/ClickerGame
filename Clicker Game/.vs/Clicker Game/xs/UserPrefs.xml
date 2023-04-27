@@ -3,20 +3,11 @@
     <Files>
       <File FileName="Assets/GameStats.cs" Line="27" Column="10" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Clicker Game" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.PsdPlugin PreferredExecutionTarget="62fbc57c-4d28-4496-9cf6-e0e8c66573a2" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="62fbc57c-4d28-4496-9cf6-e0e8c66573a2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d4ec1778-f4e5-41b5-b145-8aad06e93345" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
